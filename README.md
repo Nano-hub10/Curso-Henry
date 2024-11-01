@@ -1,2 +1,1 @@
-# Curso-Henry
-Este es un repositorio de prueba
+Esto es una prueba de como crear un repositorio y clonarlo en una red local
